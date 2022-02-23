@@ -1,5 +1,5 @@
-#SQ Simple Frame Work
-##Full Database System
+# SQ Simple Frame Work
+## Full Database System
 <h3>Connect to database</h3>
 <p>In App\Database\Connection.php
 <br>change the pdo for Mysql</p>
